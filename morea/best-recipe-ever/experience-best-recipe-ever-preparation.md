@@ -12,7 +12,7 @@ morea_labels:
 
 # 3. Prepare the best recipe ever
 
-*Replace this sentence with your instructions on how to prepare the best recipe ever. You might want to include some links or photos to help with the instructions.*
+Take all ingredients and combine them in a bowl. Put into a loaf pan and oven @ 350 degrees for 1 hr.
 
 
 {% include next-button.html 

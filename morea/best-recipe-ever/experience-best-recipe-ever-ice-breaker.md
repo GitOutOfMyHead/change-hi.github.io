@@ -15,7 +15,7 @@ Break into small groups. Try to find people you haven't met yet for your group.
 
 Task: 
 
-*Replace this sentence with a description of your "ice breaker". Think of a short, entertaining exercise that helps Data Fellows learn about each other.* 
+Determine if anyone in the group has any food preferences or algergies.
 
 {% include next-button.html
 top-label="2. Shop for the best recipe ever ->"
